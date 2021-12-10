@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          PaleoBooking - production frontend - test 2
+          PaleoBooking - production frontend
         </a>
       </header>
     </div>
