@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          PaleoBooking - production frontend - test 2
         </a>
       </header>
     </div>
